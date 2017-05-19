@@ -1,0 +1,203 @@
+
+#jumbo-id {
+  margin-bottom: 0
+}
+
+.content-jumbotron{
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+#background-header {
+  background-image: url(../images/1.jpg);
+  background-size: cover;
+  height: 600px;
+  margin-bottom: 15px;
+}
+
+.jumbotron-textcolor {
+  color:white;
+}
+
+.content-logos {
+    margin: 0 auto 10px auto;
+}
+
+.subscribe-elem {
+  margin: 0 auto 0 auto;
+  padding: 20px 0;
+}
+
+.subscribe-content{
+  margin-top: 20px;
+  background-color: #2977a0;
+  color: white;
+}
+
+#button1 {
+  width: 223px;
+  height: 81px;
+}
+
+#button2 {
+  width: 220px;
+  height: 81px;
+}
+
+.hteg-center {
+  text-align: center;
+  margin-bottom: 30px;
+
+
+}
+
+span {
+color: #2f789e;
+}
+
+.padding-null {
+  margin-top: 0;
+  color: #2f789e;
+
+}
+.Legalese-text p {
+  color: black;
+}
+
+
+.col-botoom {
+  margin-bottom: 65px;
+}
+
+.guests1 p {
+  margin-bottom: 65px;
+}
+
+.guests2 p {
+ margin-bottom: 65px;
+ }
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.media-cont {
+  background-color: black;
+}
+
+.guests2 p {
+  color: whit;
+}
+
+.media-cont h3 {
+  color: #2f789e;
+}
+
+.media-cont span {
+  color: #2f789e;
+}
+
+#sulka {
+  margin-top: 65px;
+}
+
+.media-cont {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#media-h2 {
+  padding-bottom: 30px;
+}
+
+#media-button {
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border-color:  #2f789e;
+    color:  #2f789e;
+    margin-top: 20px;
+    }
+
+.popular-content {
+  padding: 20px 0;
+
+}
+
+.col-top {
+  margin-top: 20px;
+}
+
+h2.black-main {
+  color: black;
+}
+
+#text-left {
+  text-align: left;
+}
+
+#vk_groups{
+  margin: 15px auto;
+}
+
+.smal-size {
+  font-size: 25px;
+}
+
+.three-icons {
+  background-color: #cacaca;
+  padding: 20px 0 30px 0;
+}
+
+.last-footer {
+  background-color: black;
+  padding: 20px 0 30px 0;
+}
+
+.fotter {
+  color: #cacaca;
+}
+
+.fotter-align {
+  text-align: left;
+}
+span#mod-block {
+  display: block;
+  padding-left: 70px;
+}
+
+#footer-button {
+
+  width: 270px;
+  height: 40px;
+  background-color: transparent;
+  border-color:  white;
+  color:  white;
+  margin-top: 20px;
+  border-radius: 5px;
+  }
+}
+
+.legal-box {
+  background-color: black;
+  padding-top: 10px 0;
+}
+
+.Legalese-text {
+  text-align: center;
+
+}
+
+.white-p {
+  color:#cacaca
+}
+
+#black-main2 {
+  background-color: #2d1010;
+  padding-top: 10px;
+}
+
+.Legalese-text p {
+  color: black;
+}
