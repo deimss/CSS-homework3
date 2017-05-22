@@ -153,6 +153,10 @@ h2.black-main {
   color: black;
 }
 
+#facebook-id {
+  padding-left: 115px;
+}
+
 #text-left {
   text-align: left;
 }
